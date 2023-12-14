@@ -1,1 +1,1 @@
-Facial Expression Classification learning model developed in PyTorch
+Facial Expression Classification Deep Learning Model developed in PyTorch
