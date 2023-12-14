@@ -1,1 +1,1 @@
-"# CS-4210-Machine-Learning-Assignment-3" 
+Facial Expression Classification learning model developed in PyTorch
